@@ -2,5 +2,5 @@
 gitcs
 Creating a new branch is quick
 branch clone
-Creating a new branch is quick and simple
+Creating a new branch is quick and simple.It is good.
 hahahahaha
